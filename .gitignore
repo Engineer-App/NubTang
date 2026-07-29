@@ -1,16 +1,10 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+# เมิน (Ignore) ทุกอย่างในโฟลเดอร์นี้
+/*
+
+# ยกเว้น (Don't ignore) ไฟล์เหล่านี้เพื่อให้ขึ้น GitHub ได้
+!/version.json
+!/.gitignore
+
+# เมินไฟล์ขยะของระบบ
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-/app/release.keystore
+Thumb.db

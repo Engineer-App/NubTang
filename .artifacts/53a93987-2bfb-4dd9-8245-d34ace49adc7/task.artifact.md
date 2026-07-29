@@ -1,7 +1,0 @@
-- `[x]` ตั้งค่าระบบกุญแจลายเซ็น (Signing Config) ใน `build.gradle.kts`
-- `[x]` เพิ่ม Permission และตั้งค่า `FileProvider` ใน `AndroidManifest.xml`
-- `[x]` สร้าง `UpdateManager.kt` และระบบตรวจสอบเวอร์ชัน
-- `[x]` เพิ่มหน้าจอ Splash Screen (Android 12+)
-- `[x]` ปรับปรุง `SettingsScreen.kt`: เพิ่มปุ่มอัปเดตและนโยบายความเป็นส่วนตัว
-- `[x]` ปรับปรุง `LockScreen.kt`: เพิ่มระบบสั่น (Haptic Feedback)
-- `[x]` ทดสอบการ Build APK และเตรียมไฟล์ `version.json` ตัวอย่าง
