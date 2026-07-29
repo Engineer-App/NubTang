@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 4,
   "latestVersionName": "1.3",
-  "downloadUrl": "https://github.com/Engineer-App/NubTang/releases/download/v1.3/NubTang.apk",
+  "downloadUrl": "https://github.com/Engineer-App/NubTang/releases/download/v1.3/NubTangv1.3.apk",
   "releaseNotes": "- ตัดตัวเลือกบัญชีผู้อื่นในหน้าเพิ่มบัญชี (ถือว่าเป็นของตนเองทั้งหมด)\n- เพิ่มตัวเลือก 'บัญชีผู้อื่น' ในหน้าโอนเงิน เพื่อบันทึกเป็นรายจ่ายอัตโนมัติ\n- ปรับปรุงความเสถียรทั่วไป"
 }
