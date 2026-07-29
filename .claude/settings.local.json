@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-Command gh -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-Command git -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-Command java -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-Command gradle -ErrorAction SilentlyContinue)",
+      "PowerShell($env:ANDROID_HOME)",
+      "PowerShell($env:ANDROID_SDK_ROOT)",
+      "Bash(diff \"D:/Claude Code/Android App/App_Requirement_Database_Schema_ScreenFlow.md\" \"/c/Users/MARU/Downloads/App_Requirement_Database_Schema_ScreenFlow_3.md\" | head -50)"
+    ]
+  }
+}

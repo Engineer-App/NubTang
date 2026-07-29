@@ -1,0 +1,6 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "downloadUrl": "https://github.com/your-username/your-repo/releases/download/v1.1/app-debug.apk",
+  "releaseNotes": "- เพิ่มระบบอัปเดตอัตโนมัติ\n- เพิ่ม Splash Screen\n- เพิ่มระบบสั่น (Haptic Feedback)"
+}

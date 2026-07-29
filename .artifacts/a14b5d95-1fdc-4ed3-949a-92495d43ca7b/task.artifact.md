@@ -1,0 +1,13 @@
+- [ ] **1. Compact Account Cards**
+    - [ ] Move delete icon to main row in `AccountsScreen.kt`
+    - [ ] Remove extra rows/padding from account cards
+    - [ ] Add `80.dp` bottom padding to `LazyColumn`
+- [ ] **2. Compact Credit Card Cards**
+    - [ ] Move delete icon to main row in `CreditCardsScreen.kt`
+    - [ ] Vertically compact card content
+    - [ ] Add `80.dp` bottom padding to `LazyColumn`
+- [ ] **3. Transaction List Padding**
+    - [ ] Add `80.dp` bottom padding to `LazyColumn` in `TransactionListScreen.kt`
+- [ ] **4. Verification**
+    - [ ] Build and verify all 3 lists scroll past the FAB
+    - [ ] Verify card heights are consistent and compact
