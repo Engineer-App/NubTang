@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 3,
   "latestVersionName": "1.2",
-  "downloadUrl": "https://github.com/Engineer-App/NubTang/releases/download/v1.2/app-debug.apk",
+  "downloadUrl": "https://github.com/Engineer-App/NubTang/releases/download/v1.2/NubTang.apk",
   "releaseNotes": "- เปลี่ยนชื่อแอปเป็น NubTang\n- อัปเดตเวอร์ชันเป็น 1.2\n- ทดสอบระบบอัปเดตอัตโนมัติ"
 }
